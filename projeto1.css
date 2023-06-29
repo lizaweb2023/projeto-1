@@ -1,0 +1,58 @@
+.ul.nav{
+    margin: 0;
+    padding: 0;
+}
+.navegador{
+    display: flex;
+    justify-items: end;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.caixadelink{
+    display: flex;
+    justify-items: end;
+ justify-content: space-between;
+ align-items: baseline;
+    flex-direction: row;
+}
+.corpodosite{
+   background-image:url(imagem/fundosite4.jpg)
+}
+#buscar{
+   background-color: #E0EEEE;
+   border: solid 2px #5F9EA0;
+   border-radius: 10px;
+   width: 300px;
+   left: 32px;
+}
+#textobuscar{
+    float: left;
+    background-color: transparent;
+    padding-left: 5px;
+    font-size: 18px;
+    border: none;
+    height: 32px;
+    width: 191px;
+}
+#btnbuscar{
+    border: none;
+    float: left;
+    height: 32px;
+    border-radius: 0 7px 7px 0;
+    font-weight: bolder;
+   background: #5F9EA0;
+}
+
+/*nav{
+
+}
+
+nav ul{
+
+}
+
+nav ul li a{
+    display: flex;
+    flex-direction: row;
+}
