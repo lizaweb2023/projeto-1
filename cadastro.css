@@ -1,0 +1,36 @@
+#fundocadastro{
+    padding: 0;
+    margin: 0;
+    background-color: #454d6b;
+}
+#cadastro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#submit{
+    width: 100px;
+    height: 40px;
+    background-color: #a13854;
+    border: none;
+    color:#e1e1e1;
+    margin: 10px 0;
+    align-items: center;
+    align-self: center;
+}
+#login{
+    text-align: center;
+    font-size: 12px;
+    opacity: 0.8;
+    color: #e1e1e1;
+    text-decoration: none;
+}
+#link{
+    text-align: center;
+    font-size: 12px;
+    opacity: 0.8;
+    color: #e1e1e1;
+    text-decoration: none;
+}
